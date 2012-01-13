@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ContentForInControllers::VERSION
   s.authors     = ["Clément Alexandre"]
   s.email       = ["clmntlxndr@gmail.com"]
-  s.homepage    = "http://github.com/clmntlxndr/content_for-in-controllers"
+  s.homepage    = "http://github.com/clmntlxndr/content_for_in_controllers"
   s.summary     = %q{Enables use of content_for in controllers}
   s.description = %q{Enables use of content_for in controllers}
 

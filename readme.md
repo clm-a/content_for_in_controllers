@@ -3,6 +3,9 @@ content_for in controllers
 
 Enables use of content_for in your controllers
 
+    # in your Gemfile
+    gem 'content_for_in_controllers'
+
     # in a controller 
     before_filter :set_title
 
